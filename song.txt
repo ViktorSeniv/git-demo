@@ -1,4 +1,7 @@
-dderrt to some
+ to some
 file new
 one more
 lines
+
+Add Gui
+Lines add!
