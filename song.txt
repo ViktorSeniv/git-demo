@@ -10,3 +10,5 @@ for
 add diferent
 merge
 
+PUSH ALL
+
